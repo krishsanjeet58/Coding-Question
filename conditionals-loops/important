@@ -1,0 +1,7 @@
+1.leap year - if number is divisiable by 4 that is leap year but condition is that it is not century year(divisible by 100)
+if  it is century year then try divided by 400 if divisiable   then it is leap year otherwise not
+
+2.perfectnumber-Number is the perfact number when its factor of sum is equal to that number
+3.The n-digit numbers equal to the sum of nth powers of their digits (a finite sequence) are called Armstrong numbers or plus perfect number
+and are given by 1, 2, 3, 4, 5, 6, 7, 8, 9, 153, 370, 371, 407, 1634, 8208, 9474, 54748,
+
