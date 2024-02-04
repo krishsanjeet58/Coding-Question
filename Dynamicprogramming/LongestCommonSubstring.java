@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Substring {
+public class LongestCommonSubstring {
     public static void main(String[] args) {
         Scanner sc= new Scanner(System.in);
         String s1=sc.next();
